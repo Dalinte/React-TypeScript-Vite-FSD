@@ -1,6 +1,6 @@
 {
   "name": "@dalinte/create-modern-frontend-template",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
