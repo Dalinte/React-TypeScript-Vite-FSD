@@ -5,7 +5,7 @@ This is a project template that is easy to start development with
 ## Getting Started
 
 ```
-yarn install
+npx @dalinte/create-modern-frontend-template my-project
 yarn run dev
 ```
 
